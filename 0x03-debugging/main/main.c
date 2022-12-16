@@ -1,4 +1,4 @@
-#include"main.h"
+#include "../main.h"
 
 
 
@@ -20,7 +20,7 @@ int main(void)
   
 
   
-  i = 98 % 2;
+  i = 98;
   
   positive_or_negative(i);
   
